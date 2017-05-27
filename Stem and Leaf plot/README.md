@@ -94,9 +94,6 @@ A **stem-and-leaf** display is a device for presenting quantitative data in a gr
  `\modNck{10}{20}{4}`
  
  **There's more docs will comme, stay tuned**
-### Created By
- * [Hisham Elamir](https://github.com/HishamElamir)
-
 
 ## Notes
   * stem and leaf for is under maintainace by hci-lab students
@@ -107,3 +104,8 @@ A **stem-and-leaf** display is a device for presenting quantitative data in a gr
 
 ## TODO
   * adding colors for last two types of stems
+
+### Created By
+ * [Hisham Elamir](https://github.com/HishamElamir)
+### Updated By 
+ * [Mahmoud Hamdy](https://github.com/mamhoud)
