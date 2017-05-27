@@ -37,7 +37,7 @@ A **stem-and-leaf** display is a device for presenting quantitative data in a gr
   Here user specify the bar color it maybe any color he want and the **default** is _Black_.
   The bar is divide the plot into stem and leaf.
   
-### See [Notes and TODO](https://github.com/hci-lab/pgfplot-extensions/blob/master/Stem%20and%20Leaf%20plot/README.md)
+
 
 ### Created By
  * [Hisham Elamir](https://github.com/HishamElamir)
